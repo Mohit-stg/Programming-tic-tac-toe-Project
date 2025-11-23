@@ -56,3 +56,7 @@ project-folder/
 │
 ├── tic_tac_toe.py
 
+Step7. Conclusion
+-----------------
+This small project is great for anyone just starting with python. It teaches how a simple game is built from scratch using basic programming ideas. this game can later be enhanced by adding features such as a computer opponent, a graphical interface or even a scoring feature.
+
